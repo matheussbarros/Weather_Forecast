@@ -2,7 +2,7 @@
 <resources>
     <string name="api_key">e9731b18e90e188e5ad39909bad215c3</string>
 
-    <string name="web_service_url">api.openweathermap.org/data/2.5/forecast?q=</string>
+    <string name="web_service_url">http://api.openweathermap.org/data/2.5/forecast?q=%s&amp;APPID=%s&amp;units=metric</string>
 
 
 </resources>

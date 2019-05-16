@@ -17,9 +17,9 @@
 
       <android.support.design.widget.TextInputEditText
           android:id="@+id/locationEditText"
-          android:hint="@string/hint_text"
           android:layout_width="match_parent"
-          android:layout_height="wrap_content" />
+          android:layout_height="wrap_content"
+          android:hint="@string/hint_text" />
 
   </android.support.design.widget.TextInputLayout>
 
